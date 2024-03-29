@@ -1,1 +1,1 @@
-Python platform game similar to Super Mario Bros.
+Python platformer game similar to Super Mario Bros.
